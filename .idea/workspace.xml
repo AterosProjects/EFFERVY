@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4fafdb1f-47ef-43d5-a0ad-9cbdbc68c919" name="Default Changelist" comment="">
+    <list default="true" id="4fafdb1f-47ef-43d5-a0ad-9cbdbc68c919" name="Default Changelist" comment="Add product image">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +40,8 @@
       <option name="presentableId" value="Default" />
       <updated>1605708222804</updated>
       <workItem from="1605708223916" duration="2992000" />
-      <workItem from="1605711628277" duration="459000" />
+      <workItem from="1605711628277" duration="1236000" />
+      <workItem from="1605716531682" duration="1971000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1605709467752</created>
@@ -50,7 +50,21 @@
       <option name="project" value="LOCAL" />
       <updated>1605709467752</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Update">
+      <created>1605712248422</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605712248422</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add product image">
+      <created>1605712263129</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605712263129</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -58,16 +72,24 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+    <MESSAGE value="Update" />
+    <MESSAGE value="Add product image" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add product image" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="591" y="98" key="CommitChangelistDialog2" timestamp="1605709465401">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="-1329" y="109" key="CommitChangelistDialog2" timestamp="1605736181094">
+      <screen x="-1920" y="11" width="1920" height="1040" />
     </state>
+    <state x="-1329" y="109" key="CommitChangelistDialog2/0.0.1920.1040/-1920.11.1920.1040@-1920.11.1920.1040" timestamp="1605736181094" />
     <state x="591" y="98" key="CommitChangelistDialog2/0.0.1920.1040/-1920.11.1920.1040@0.0.1920.1040" timestamp="1605709465401" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1605709469259">
+    <state x="-1368" y="264" key="Vcs.Push.Dialog.v2" timestamp="1605712265000">
+      <screen x="-1920" y="11" width="1920" height="1040" />
+    </state>
+    <state x="-1368" y="264" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.11.1920.1040@-1920.11.1920.1040" timestamp="1605712265000" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.11.1920.1040@0.0.1920.1040" timestamp="1605709469259" />
+    <state x="777" y="435" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605717238811">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.11.1920.1040@0.0.1920.1040" timestamp="1605709469259" />
+    <state x="777" y="435" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/-1920.11.1920.1040@0.0.1920.1040" timestamp="1605717238811" />
   </component>
 </project>
