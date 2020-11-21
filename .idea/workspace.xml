@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4fafdb1f-47ef-43d5-a0ad-9cbdbc68c919" name="Default Changelist" comment="Edit">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="4fafdb1f-47ef-43d5-a0ad-9cbdbc68c919" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +40,7 @@
       <workItem from="1605711628277" duration="1236000" />
       <workItem from="1605716531682" duration="2657000" />
       <workItem from="1605910852189" duration="23000" />
-      <workItem from="1605994274240" duration="379000" />
+      <workItem from="1605994274240" duration="427000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1605709467752</created>
@@ -102,7 +98,21 @@
       <option name="project" value="LOCAL" />
       <updated>1605994342862</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Edit page content">
+      <created>1605994670463</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1605994670463</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Edit gitignore">
+      <created>1605994689843</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1605994689843</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,18 +126,20 @@
     <MESSAGE value="Remove logo link" />
     <MESSAGE value="Edit logo error" />
     <MESSAGE value="Add gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add gitignore" />
+    <MESSAGE value="Edit page content" />
+    <MESSAGE value="Edit gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Edit gitignore" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-1329" y="109" key="CommitChangelistDialog2" timestamp="1605994647770">
+    <state x="-1329" y="109" key="CommitChangelistDialog2" timestamp="1605994688920">
       <screen x="-1920" y="11" width="1920" height="1040" />
     </state>
-    <state x="-1329" y="109" key="CommitChangelistDialog2/0.0.1920.1040/-1920.11.1920.1040@-1920.11.1920.1040" timestamp="1605994647770" />
+    <state x="-1329" y="109" key="CommitChangelistDialog2/0.0.1920.1040/-1920.11.1920.1040@-1920.11.1920.1040" timestamp="1605994688920" />
     <state x="591" y="98" key="CommitChangelistDialog2/0.0.1920.1040/-1920.11.1920.1040@0.0.1920.1040" timestamp="1605709465401" />
-    <state x="-1368" y="264" key="Vcs.Push.Dialog.v2" timestamp="1605744535947">
+    <state x="-1368" y="264" key="Vcs.Push.Dialog.v2" timestamp="1605994673647">
       <screen x="-1920" y="11" width="1920" height="1040" />
     </state>
-    <state x="-1368" y="264" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.11.1920.1040@-1920.11.1920.1040" timestamp="1605744535947" />
+    <state x="-1368" y="264" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.11.1920.1040@-1920.11.1920.1040" timestamp="1605994673647" />
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.11.1920.1040@0.0.1920.1040" timestamp="1605709469259" />
     <state x="777" y="435" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605717238811">
       <screen x="0" y="0" width="1920" height="1040" />
